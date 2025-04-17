@@ -31,6 +31,27 @@
 <picture>![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)</picture>
 
 ## Projects
+
+### [Packrun](https://github.com/daiv/PackRun)
+Provides functionality for tracking runners routes and facilitates communication between them via chat.<br><br>
+
+<p style="display: flex; ">
+  <img style="width:30%; padding-right: 2%; height: auto" src="https://github.com/daiv/PackRun/blob/development/1.png"/>
+  <img style="width:30%; padding-right: 2%; height: auto" src="https://github.com/daiv/PackRun/blob/development/2.png"/>
+  <img style="width:30%; padding-right: 2%; height: auto" src="https://github.com/daiv/PackRun/blob/development/3.png"/>
+</p>
+Tech Stack used:<br>
+
+<picture>![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white)</picture>
+<picture>![Vite](https://img.shields.io/badge/-Vite-646CFF?logo=vite&logoColor=white)</picture>
+<picture>![React Native](https://img.shields.io/badge/React_Native-20232A?logo=react&logoColor=61DAFB)</picture>
+<picture>![HTTP](https://img.shields.io/badge/HTTP-API-lightgrey)</picture>
+<picture>![Node.js](https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white)</picture>
+<picture>![Express](https://img.shields.io/badge/Express.js-000000?logo=express&logoColor=white)</picture>
+<picture>![Sequelize](https://img.shields.io/badge/Sequelize-020690?logo=Sequelize&logoColor=white)</picture>
+<picture>![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?logo=postgresql&logoColor=white)</picture>
+   
+
 ### [Pregnancy-tracker](https://github.com/daiv/pregnancy-tracker)
   Full stack application for showing info about the pregnancy status and a todo list.<br><br>
   <img src="https://github.com/daiv/pregnancy-tracker/blob/main/screen.png" />
@@ -42,7 +63,7 @@
     <picture>![Mongoose](https://img.shields.io/badge/-Mongoose-880000?style=flat&logo=mongoose&logoColor=white)</picture>
     <picture>![Nodemon](https://img.shields.io/badge/-Nodemon-76D04B?style=flat&logo=nodemon&logoColor=white)</picture>
 
-   
+
 ### [TabTrackr](https://github.com/daiv/TabTrackr)
   
   A chrome extension that tracks tab usage. <br><br>
@@ -57,24 +78,6 @@
   <picture>![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?logo=postgresql&logoColor=white)</picture>
   <picture>![Sequelize](https://img.shields.io/badge/Sequelize-020690?logo=Sequelize&logoColor=white)</picture>
   <picture>![Express](https://img.shields.io/badge/Express.js-000000?logo=express&logoColor=white)</picture>
-  
-### [Packrun](https://github.com/daiv/PackRun)
-Provides functionality for tracking runners routes and facilitates communication between them via chat.<br><br>
-Tech Stack used:<br>
-
-<picture>![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white)</picture>
-<picture>![Vite](https://img.shields.io/badge/-Vite-646CFF?logo=vite&logoColor=white)</picture>
-<picture>![React Native](https://img.shields.io/badge/React_Native-20232A?logo=react&logoColor=61DAFB)</picture>
-<picture>![HTTP](https://img.shields.io/badge/HTTP-API-lightgrey)</picture>
-<picture>![Node.js](https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white)</picture>
-<picture>![Express](https://img.shields.io/badge/Express.js-000000?logo=express&logoColor=white)</picture>
-<picture>![Sequelize](https://img.shields.io/badge/Sequelize-020690?logo=Sequelize&logoColor=white)</picture>
-<picture>![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?logo=postgresql&logoColor=white)</picture>
-
-
-
-
-
 
 
 ## Contact
