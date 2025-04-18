@@ -29,6 +29,8 @@
 <picture>![Jest](https://img.shields.io/badge/-Jest-C21325?logo=jest&logoColor=white)</picture>
 <picture>![SuperTest](https://img.shields.io/badge/-SuperTest-333333?logoColor=white)</picture>
 <picture>![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)</picture>
+<picture>![MapLibre](https://img.shields.io/badge/-MapLibre-356fa)</picture>
+<picture>![StadiaMaps](https://img.shields.io/badge/-StadiaMaps-8563ca)</picture>
 
 ## Projects
 
