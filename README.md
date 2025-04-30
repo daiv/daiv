@@ -52,6 +52,8 @@ Tech Stack used:<br>
 <picture>![Express](https://img.shields.io/badge/Express.js-000000?logo=express&logoColor=white)</picture>
 <picture>![Sequelize](https://img.shields.io/badge/Sequelize-020690?logo=Sequelize&logoColor=white)</picture>
 <picture>![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?logo=postgresql&logoColor=white)</picture>
+<!-- <picture>![Jest](https://img.shields.io/badge/-Jest-C21325?logo=jest&logoColor=white)</picture>
+<picture>![SuperTest](https://img.shields.io/badge/-SuperTest-333333?logoColor=white)</picture> -->
    
 
 ### [Pregnancy-tracker](https://github.com/daiv/pregnancy-tracker)
@@ -64,6 +66,8 @@ Tech Stack used:<br>
     <picture>![MongoDB](https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white)</picture>
     <picture>![Mongoose](https://img.shields.io/badge/-Mongoose-880000?style=flat&logo=mongoose&logoColor=white)</picture>
     <picture>![Nodemon](https://img.shields.io/badge/-Nodemon-76D04B?style=flat&logo=nodemon&logoColor=white)</picture>
+    <picture>![Vitest](https://img.shields.io/badge/-Vitest-6E9F18?logo=vitest&logoColor=white)</picture>
+    <!-- <picture>![SuperTest](https://img.shields.io/badge/-SuperTest-333333?logoColor=white)</picture>-->
 
 
 ### [TabTrackr](https://github.com/daiv/TabTrackr)
@@ -80,6 +84,8 @@ Tech Stack used:<br>
   <picture>![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?logo=postgresql&logoColor=white)</picture>
   <picture>![Sequelize](https://img.shields.io/badge/Sequelize-020690?logo=Sequelize&logoColor=white)</picture>
   <picture>![Express](https://img.shields.io/badge/Express.js-000000?logo=express&logoColor=white)</picture>
+  <picture>![Vitest](https://img.shields.io/badge/-Vitest-6E9F18?logo=vitest&logoColor=white)</picture>
+  <picture>![SuperTest](https://img.shields.io/badge/-SuperTest-333333?logoColor=white)</picture>
 
 
 ## Contact
