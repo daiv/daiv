@@ -58,7 +58,7 @@ Tech Stack used:<br>
 
 ### [Pregnancy-tracker](https://github.com/daiv/pregnancy-tracker)
   Full stack application for showing info about the pregnancy status and a todo list.<br><br>
-  <img src="https://github.com/daiv/pregnancy-tracker/blob/main/screen.png" />
+  <a href="https://github.com/daiv/pregnancy-tracker"><img src="https://github.com/daiv/pregnancy-tracker/blob/main/screen.png" /></a>
   Tech Stack used:<br>
     <picture>![Vite](https://img.shields.io/badge/-Vite-646CFF?logo=vite&logoColor=white)</picture>
     <picture>![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black)</picture>
