@@ -67,7 +67,8 @@ Tech Stack used:<br>
     <picture>![Mongoose](https://img.shields.io/badge/-Mongoose-880000?style=flat&logo=mongoose&logoColor=white)</picture>
     <picture>![Nodemon](https://img.shields.io/badge/-Nodemon-76D04B?style=flat&logo=nodemon&logoColor=white)</picture>
     <picture>![Vitest](https://img.shields.io/badge/-Vitest-6E9F18?logo=vitest&logoColor=white)</picture>
-    <!-- <picture>![SuperTest](https://img.shields.io/badge/-SuperTest-333333?logoColor=white)</picture>-->
+    <picture>![Jest](https://img.shields.io/badge/-Jest-C21325?logo=jest&logoColor=white)</picture>
+    <picture>![SuperTest](https://img.shields.io/badge/-SuperTest-333333?logoColor=white)</picture>
 
 
 ### [TabTrackr](https://github.com/daiv/TabTrackr)
