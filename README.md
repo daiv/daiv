@@ -38,9 +38,9 @@
 Provides functionality for tracking runners routes and facilitates communication between them via chat.<br><br>
 
 <p style="display: flex; ">
-  <img style="width:30%; padding-right: 2%; height: auto" src="https://github.com/daiv/PackRun/blob/development/1.png"/>
-  <img style="width:30%; padding-right: 2%; height: auto" src="https://github.com/daiv/PackRun/blob/development/2.png"/>
-  <img style="width:30%; padding-right: 2%; height: auto" src="https://github.com/daiv/PackRun/blob/development/3.png"/>
+  <a href="https://github.com/daiv/PackRun"> <img style="width:30%; padding-right: 2%; height: auto" src="https://github.com/daiv/PackRun/blob/development/1.png"/></a>
+  <a href="https://github.com/daiv/PackRun"> <img style="width:30%; padding-right: 2%; height: auto" src="https://github.com/daiv/PackRun/blob/development/2.png"/></a>
+  <a href="https://github.com/daiv/PackRun"> <img style="width:30%; padding-right: 2%; height: auto" src="https://github.com/daiv/PackRun/blob/development/3.png"/></a>
 </p>
 Tech Stack used:<br>
 
@@ -75,7 +75,7 @@ Tech Stack used:<br>
   
   A chrome extension that tracks tab usage. <br><br>
   
-  <img src="https://github.com/daiv/TabTrackr/blob/main/TabTrackr.png" />
+  <a href="https://github.com/daiv/TabTrackr"><img src="https://github.com/daiv/TabTrackr/blob/main/TabTrackr.png" /></a>
   
   Tech Stack used:<br>
   <picture>![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white)</picture>
