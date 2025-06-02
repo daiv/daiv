@@ -60,8 +60,9 @@ Tech Stack used:<br>
   Full stack application for showing info about the pregnancy status and a todo list.<br><br>
   <a href="https://github.com/daiv/pregnancy-tracker"><img src="https://github.com/daiv/pregnancy-tracker/blob/main/screen.png" /></a>
   Tech Stack used:<br>
-    <picture>![Vite](https://img.shields.io/badge/-Vite-646CFF?logo=vite&logoColor=white)</picture>
+  <picture>![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)</picture>
     <picture>![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black)</picture>
+    <picture>![Vite](https://img.shields.io/badge/-Vite-646CFF?logo=vite&logoColor=white)</picture>
     <picture>![Express](https://img.shields.io/badge/Express.js-000000?logo=express&logoColor=white)</picture>
     <picture>![MongoDB](https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white)</picture>
     <picture>![Mongoose](https://img.shields.io/badge/-Mongoose-880000?style=flat&logo=mongoose&logoColor=white)</picture>
@@ -81,7 +82,6 @@ Tech Stack used:<br>
   <picture>![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white)</picture>
   <picture>![Vite](https://img.shields.io/badge/-Vite-646CFF?logo=vite&logoColor=white)</picture>
   <picture>![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black)</picture>
-  <picture>![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white)</picture>
   <picture>![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?logo=postgresql&logoColor=white)</picture>
   <picture>![Sequelize](https://img.shields.io/badge/Sequelize-020690?logo=Sequelize&logoColor=white)</picture>
   <picture>![Express](https://img.shields.io/badge/Express.js-000000?logo=express&logoColor=white)</picture>
