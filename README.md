@@ -31,7 +31,7 @@
 <picture>![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)</picture>
 <picture>![MapLibre](https://img.shields.io/badge/-MapLibre-356fa)</picture>
 <picture>![StadiaMaps](https://img.shields.io/badge/-StadiaMaps-8563ca)</picture>
-![AWS](https://custom-icon-badges.demolab.com/badge/AWS-%23FF9900.svg?logo=aws&logoColor=white)
+<picture>![AWS](https://custom-icon-badges.demolab.com/badge/AWS-%23FF9900.svg?logo=aws&logoColor=white)</picture>
 
 ## Projects
 
