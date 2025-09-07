@@ -36,7 +36,7 @@
 ## Projects
 
 ### [Packrun](https://github.com/daiv/PackRun)
-Provides functionality for tracking runners routes and facilitates communication between them via chat.<br><br>
+An application for tracking running routes and facilitating communication between runners via in-app chat.<br><br>
 
 <p style="display: flex; ">
   <a href="https://github.com/daiv/PackRun"> <img style="width:30%; padding-right: 2%; height: auto" src="https://github.com/daiv/PackRun/blob/development/1.png"/></a>
@@ -53,8 +53,9 @@ Tech Stack used:<br>
 <picture>![Express](https://img.shields.io/badge/Express.js-000000?logo=express&logoColor=white)</picture>
 <picture>![Sequelize](https://img.shields.io/badge/Sequelize-020690?logo=Sequelize&logoColor=white)</picture>
 <picture>![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?logo=postgresql&logoColor=white)</picture>
-<!-- <picture>![Jest](https://img.shields.io/badge/-Jest-C21325?logo=jest&logoColor=white)</picture>
-<picture>![SuperTest](https://img.shields.io/badge/-SuperTest-333333?logoColor=white)</picture> -->
+<picture>![Jest](https://img.shields.io/badge/-Jest-C21325?logo=jest&logoColor=white)</picture>
+<picture>![SuperTest](https://img.shields.io/badge/-SuperTest-333333?logoColor=white)</picture>
+<picture>![AWS](https://custom-icon-badges.demolab.com/badge/AWS-%23FF9900.svg?logo=aws&logoColor=white)</picture>
    
 
 ### [Pregnancy-tracker](https://github.com/daiv/pregnancy-tracker)
