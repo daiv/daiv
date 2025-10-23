@@ -39,9 +39,9 @@
 An application for tracking running routes and facilitating communication between runners via in-app chat.<br><br>
 
 <p style="display: flex; ">
-  <a href="https://github.com/daiv/PackRun"> <img style="width:30%; padding-right: 2%; height: auto" src="https://github.com/daiv/PackRun/blob/development/1.png"/></a>
-  <a href="https://github.com/daiv/PackRun"> <img style="width:30%; padding-right: 2%; height: auto" src="https://github.com/daiv/PackRun/blob/development/2.png"/></a>
-  <a href="https://github.com/daiv/PackRun"> <img style="width:30%; padding-right: 2%; height: auto" src="https://github.com/daiv/PackRun/blob/development/3.png"/></a>
+  <a href="https://github.com/daiv/PackRun"> <img style="width:30%; padding-right: 2%; height: auto" src="https://raw.githubusercontent.com/daiv/PackRun/development/githubAssets/home.png"/></a>
+  <a href="https://github.com/daiv/PackRun"> <img style="width:30%; padding-right: 2%; height: auto" src="https://raw.githubusercontent.com/daiv/PackRun/development/githubAssets/runHistory.png"/></a>
+  <a href="https://github.com/daiv/PackRun"> <img style="width:30%; padding-right: 2%; height: auto" src="https://raw.githubusercontent.com/daiv/PackRun/development/githubAssets/profile.png"/></a> 
 </p>
 Tech Stack used:<br>
 
